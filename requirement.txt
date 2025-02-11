@@ -1,0 +1,5 @@
+Flask==2.2.2
+FastAPI
+flask-bcrypt
+flask-jwt-extended
+mysql-connector-python
